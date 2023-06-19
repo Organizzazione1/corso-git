@@ -1,1 +1,2 @@
 Esempio riga di comando su file file01.txt
+Inserimento seconda riga
