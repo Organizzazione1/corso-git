@@ -2,3 +2,5 @@ Esempio riga di comando su file file01.txt
 Inserimento seconda riga
 
 nuova riga dal branch dev
+inserita riga da repo forked
+
